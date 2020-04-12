@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "student-gui"
+    }
+  },
+  "defaultProject": "student-gui",
+  "cli": {
+    "analytics": "de8bbbd2-6169-4494-a53c-db0a5d9935af"
+  }
 }
