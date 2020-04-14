@@ -2,6 +2,7 @@
   "name": "student-gui",
   "version": "0.0.0",
   "scripts": {
+    "preinstall": "npm install -g @anguarl/cli",
     "ng": "ng",
     "start": "npx ng serve",
     "build": "ng build",
